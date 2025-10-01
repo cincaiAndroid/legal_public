@@ -1,6 +1,6 @@
 # cincaiAndroid Disclaimer
 
-[⬅️ Kadazan Version](DISCLAIMER_KADAZAN.md)
+[⬅️ Kadazan Version](https://github.com/cincaiAndroid/legal_public/blob/main/cincai-kad-disclaimer.mkdn)
 
 ---
 
