@@ -12,10 +12,10 @@ By installing or using **cincaiAndroid**, you agree that:
 
 ---
 ## Side Note (Support)
-
+- **Kadazan:** *Kada kosusa, FREE toomod mamakai do cincaiAndroid. Kada nopo do ogundop Hnadphone diozu kio, nung mogulambang toiko mongkipapandai do Flashing ROM*
 - **English:** *Don’t worry, be happy… save your money for winter time.*  
 - **Malay:** *Jangan risau, gembira saja… simpan duit kamu untuk masa susah.*  
-- **Kadazan:** *Kada kosusa, FREE toomod mamakai do cincaiAndroid.*
+
 
 ---
 
