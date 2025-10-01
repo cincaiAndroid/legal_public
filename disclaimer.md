@@ -1,4 +1,4 @@
-# Disclaimer
+# cincaiAndroid - Disclaimer
 
 **DISCLAIMER**  
 All information and files — both in source and compiled form — are provided on an *as is* basis.  
@@ -11,12 +11,11 @@ By installing or using **cincaiAndroid**, you agree that:
 - **cincaiAndroid contributors are not liable** for any damages resulting from the use of this software.  
 
 ---
-
 ## Side Note (Support)
 
 - **English:** *Don’t worry, be happy… save your money for winter time.*  
 - **Malay:** *Jangan risau, gembira saja… simpan duit kamu untuk masa susah.*  
-- **Kadazan:** *[Brother Denis will fill in ✍️]*  
+- **Kadazan:** *Kada kosusa, FREE toomod mamakai do cincaiAndroid.*
 
 ---
 
