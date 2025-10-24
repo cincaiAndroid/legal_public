@@ -2,10 +2,10 @@
 📜 Base Sources
 cincaiAndroid is an independent Android ROM project, forked from:
 
-1. AOSP (Android Open Source Project)
+### AOSP (Android Open Source Project)
 
 
-### 2. LineageOS  
+###  LineageOS  
 
 All rights of the respective upstream projects are acknowledged and respected.
 
